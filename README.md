@@ -1,4 +1,4 @@
 # HumanTest
 Third Person Human
 
-https://amnihs.github.io/HumanTest/
+https://utimamnis.github.io/HumanTest/
